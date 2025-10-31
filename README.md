@@ -1,1 +1,1 @@
-# Encryption-algo
+# Encryption-algo It takes a string, removes spaces, and arranges the characters into a grid (rows and columns) based on the string’s length. The function encryption (currently empty) will then read the grid column by column to produce the encoded message as a single encrypted string.
